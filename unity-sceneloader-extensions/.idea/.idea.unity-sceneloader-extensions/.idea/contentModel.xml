@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Raphael\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Raphael\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_unity-sceneloader-extensions.1809024514.00" t="ExcludeRecursive" />
+    <e p="G:\Unity Projects\unity-sceneloader-extensions\unity-sceneloader-extensions" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Samples" t="Include">
+          <e p="main.cs" t="Include" />
+        </e>
+        <e p="sceneloader-extensions" t="Include">
+          <e p="SceneManagerExtensions.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="unity-sceneloader-extensions.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
