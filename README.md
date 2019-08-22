@@ -10,6 +10,7 @@ using System;
 using UnityEngine;
 
 // add this namespace to use the static methods.
+using UnityExtensions;
 
 public class SampleUsage : MonoBehaviour
 {
